@@ -2,7 +2,7 @@
 layout: post
 title:  "为Github Pages绑定个人域名"
 date:   2016-06-19 15:28:54 +0800
-permelink: /bind-custom-domain-name-to-my-github-page/
+permalink: /bind-custom-domain-name-to-my-github-page/
 ---
 
 ## 申请域名

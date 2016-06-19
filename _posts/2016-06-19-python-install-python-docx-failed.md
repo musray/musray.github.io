@@ -2,7 +2,7 @@
 layout: post
 title:  "python-docx安装失败, 缺少vcvarsall.bat的解决办法"
 date:   2016-06-19 15:28:54 +0800
-permelink: /install-python-docx-failed/
+permalink: /install-python-docx-failed/
 ---
 
 ## 背景

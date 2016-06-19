@@ -2,7 +2,7 @@
 layout: post
 title:  "初学编程，你一定遇得到这些坑"
 date:   2016-06-19 15:28:54 +0800
-permelink: /the-pitfalls-you-will-drop-in/
+permalink: /the-pitfalls-you-will-drop-in/
 ---
 
 ## 不是不掉，时候未到
