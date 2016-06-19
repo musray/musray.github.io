@@ -44,6 +44,6 @@ MongooDB的操作。
 - iPhone6 Plus
 - 冷酷至尊 红轴
 1. IDE
-没用过。
+没用过
 1. 编辑器
 Vim
