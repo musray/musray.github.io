@@ -59,11 +59,11 @@ Leetcode还提供官方出版的ebook，以方便随时学习。因为没有尝�
 
 上面这条命令，读取了file.txt的前10行内容，并通过管道传递；tail把接收内容中的最后一行输出到stdout。呵呵，看起来确实是个Easy难度的问题。那么，我们将答案输入命令框：
 
-![LeetCode的输入框]({{ site.url }}/assets/post-images/head-tail-input.png)
+![LeetCode的输入框](/assets/post-images/head-tail-input.gif)
 
 提交验证，Oops！有情况！
 
-![LeetCode的评估结果]({{ site.url }}/assets/post-images/head-tail-result.png)
+![LeetCode的评估结果](/assets/post-images/head-tail-result.png)
 
 LeetCode在验证的时候发现，如果file.txt只有9行，命令会输出第9行内容，这很明显是出错了。
 看起来LeetCode还有点靠谱的。
@@ -73,16 +73,16 @@ LeetCode在验证的时候发现，如果file.txt只有9行，命令会输出第
 
 `$ sed '10q;d' file.txt`
 
-![LeetCode的输入框]({{ site.url }}/assets/post-images/sed-input.png)
+![LeetCode的输入框](/assets/post-images/sed-input.gif)
 
 再次进行验证：
 
-![LeetCode的评估结果]({{ site.url }}/assets/post-images/sed-result.png)
+![LeetCode的评估结果](/assets/post-images/sed-result.png)
 
 哈哈，通过！
 不仅如此，点击按钮More Details，LeetCode还会把本次验证所作尝试的次数、耗时进行计算，并将所有用户提交过的结果做一个排名：
 
-![runtime distributin]({{ site.url }}/assets/post-images/accepted-solutions-runtime-distribution.png)
+![runtime distributin](/assets/post-images/accepted-solutions-runtime-distribution.png)
 
 从上面的分布图里能看出来，我的这个方法的排名已经进入第一梯队，打败了85.38%的程序员呢！看来`sed`确实是这方面的专家。
 
