@@ -2,7 +2,7 @@
 layout: post
 title:  "如何当个优秀的工程师，10分钟从入门到放弃"
 date:   2016-07-28 13:25:54 +0800
-permalink: /hwo-to-be-a-better-engineer-ten-minutes-from-entry-to-give-up/
+permalink: /how-to-be-a-better-engineer-ten-minutes-from-entry-to-give-up/
 ---
 
 
