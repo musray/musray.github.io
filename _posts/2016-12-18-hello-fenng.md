@@ -2,7 +2,7 @@
 layout: post
 title:  "你好大辉"
 date:   2016-12-18
-permalink: /hello-fenng/
+permalink: /hello-Fenng/
 ---
 
 大辉你好，我是褚瑞。想和你聊聊工作，所以斗胆写了这封求职信。知道你时间宝贵，感谢阅读（Ulysses测算的快速阅读时间为大约3分钟）。
