@@ -15,11 +15,11 @@ permalink: /hello-fenng/
 2006年本科毕业，至今10年。在一家能源类央企的下属单位工作了9年半，从事核电站仪控系统的工程实施。目前职位是系统主管工程师，带领3-5人的团队，进行数字化仪控系统的工程实施。
 
 ### 编程
-2013年（30岁）时，正式开始自学编程。最初学习的精神指导来自「MacTalk」，在「Coursera」平台学习莱斯大学的`Python`课程（2013年是我接触到公众号和MOOC的年份）。
+2013年（30岁）时，正式开始自学编程。最初学习的精神指导来自「MacTalk」，在「Coursera」平台学习莱斯大学的 Python 课程（2013年是我接触到公众号和MOOC的年份）。
 
-学到一点`Python`之后，我就试着给周围的同事开发一些小工具，实现`.xlsx`表格的自动处理，或者`FTP`快速文件下载等等。从此，编程成为人生中的又一种可能。
+学到一点 Python 之后，我就试着给周围的同事开发一些小工具，实现 .xlsx 表格的自动处理，或者 FTP 快速文件下载等等。从此，编程成为人生中的又一种可能。
 
-为了解决团队内部信息不流通的问题，我尝试建立一个信息共享类的内网站点。于是开始自学`HTML`+`CSS`+`JS`。印象最深的是第一次用`AngularJS`，被它的Two-Way-Binding特性深深震撼到了。
+为了解决团队内部信息不流通的问题，我尝试建立一个信息共享类的内网站点。于是开始自学 HTML + CSS + JS 。印象最深的是第一次用 AngularJS ，被它的Two-Way-Binding特性深深震撼到了。
 
 从一开始就听池建强老师说，程序员要懂英文。所以从一开始，我就坚持以英文的视频、书籍、技术文章为主要输入来源。经过这两年的锻炼，英文水平已经可以满足学习程中的查找信息、寻求帮助、阅读文档等需要。
 
@@ -34,11 +34,11 @@ permalink: /hello-fenng/
 
 ## 我做过什么
 
-1. 基于`AngularJS`做过一个信息共享类的内部[ 站点 ](https://github.com/musray/g5-app)。
-2. 基于`Node.js`做过一个支持`.docx`和`.xlsx`格式的[ 文件自动生成器 ](https://github.com/musray/doc-server)。
-3. 一些`Python`应用
+1. 基于 AngularJS 做过一个信息共享类的内部[ 站点 ](https://github.com/musray/g5-app)。
+2. 基于 Node.js 做过一个支持 .docx 和 .xlsx 格式的[ 文件自动生成器 ](https://github.com/musray/doc-server)。
+3. 一些 Python 应用
 	- 一个FTP文件快速下载[ 工具 ](https://github.com/musray/FTPDownloader)
-	- 一个`.xlsx`文件批处理[ 工具 ](https://github.com/musray/xls2csv)。
+	- 一个 .xlsx 文件批处理[ 工具 ](https://github.com/musray/xls2csv)。
 4. 获得Udacity上的 Introduction to Programming NanoDegree。[( certification )](https://printer.udacity.com/v1/fetch?first_name=Chu&last_name=Rui&key=nd000&title=编程入门纳米学位&graduation_date=2015-07-08T20%3A22%3A47.476Z&locale=zh-cn&template=nd-grad-cert)。
 
 其他一些琐碎的代码，也都托管在[ 我的Github ](https://github.com/musray)上。
