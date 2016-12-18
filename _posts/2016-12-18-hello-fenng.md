@@ -39,7 +39,7 @@ permalink: /hello-fenng/
 3. 一些 Python 应用
 	- 一个FTP文件快速下载[ 工具 ](https://github.com/musray/FTPDownloader)
 	- 一个 .xlsx 文件批处理[ 工具 ](https://github.com/musray/xls2csv)。
-4. 获得Udacity上的 Introduction to Programming NanoDegree。[( certification )](https://printer.udacity.com/v1/fetch?first_name=Chu&last_name=Rui&key=nd000&title=编程入门纳米学位&graduation_date=2015-07-08T20%3A22%3A47.476Z&locale=zh-cn&template=nd-grad-cert)。
+4. 获得Udacity上的 Introduction to Programming NanoDegree。![( certification )](/assets/post-pdf/nd-grad-cert.pdf)。
 
 其他一些琐碎的代码，也都托管在[ 我的Github ](https://github.com/musray)上。
 
